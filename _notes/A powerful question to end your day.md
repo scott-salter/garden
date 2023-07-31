@@ -4,7 +4,7 @@ title: A powerful question to end your day with
 
 *Note status: #seedling*
 
-"Did the people I care about most, get my best energy?"*
+*"Did the people I care about most, get my best energy?"*
 
 I can't remember where I found this - I think it was on Twitter, but I like how it forces you to reflect on what is really important.
 
