@@ -1,5 +1,5 @@
 ---
-title: Explained: Note Status
+title: Explained Note Status
 ---
 
 With each note I add to my digital garden, I include a note status to show how developed an idea is. And with this being a [[Digital Garden]], each note status uses a gardening analogy to reflects the maturity of the idea.
