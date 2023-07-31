@@ -2,7 +2,7 @@
 title: Digital Garden
 ---
 
-*Note status:* Seed
+*Note status:* #Seed
 
 > Keen to understand what each note status means? Take a look at [[Note Status]]
 
