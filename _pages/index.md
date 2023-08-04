@@ -5,6 +5,9 @@ id: home
 permalink: /
 ---
 
+<title>Scott's Digital Garden</title>
+<meta name="description" content="Testing meta">
+
 # Hi - I'm Scott! 🌱
 
 This is my [[digital garden]]. It's my tiny plot of the internet where I share ideas and learn in public. 
