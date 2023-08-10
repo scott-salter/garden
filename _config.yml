@@ -6,6 +6,9 @@ exclude:             ['_includes/notes_graph.json']
 # Pages deploys your repository (which is usually the repository name).
 baseurl:             ''
 
+plugins:
+  - jekyll-seo-tag
+
 # If you are using a host that cannot resolve URLs that do
 # not end with .html (such as Neocities), set this to 'true'.
 use_html_extension:  false
@@ -43,5 +46,3 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
-plugins:
-  - jekyll-seo-tag
