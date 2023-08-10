@@ -3,6 +3,7 @@ layout: page
 title: Home
 id: home
 permalink: /
+
 description: Scott Salter is an SEO Manager based in the South West of England. At Gymshark, he leads the SEO & Content team across 15 global websites.
 ---
 
